@@ -4,5 +4,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/selenium3"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/SEL_3.141.59"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
